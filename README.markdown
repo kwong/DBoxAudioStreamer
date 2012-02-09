@@ -1,6 +1,6 @@
 # DBoxAudioStreamer
 
-DBoxAudioStreamer allows audio streaming from the DropBox public folder.
+DBoxAudioStreamer allows audio streaming from the DropBox public folder. I made this before we had cloud based music storage so I could listen to my favorite songs on any device with an internet connection and a browser. 
 
 ## Installation
 1. Copy entire content of DBoxAudioStreamer to your DropBox public folder containing audio files.
@@ -9,9 +9,6 @@ DBoxAudioStreamer allows audio streaming from the DropBox public folder.
 ## Usage
 
 1. Get public link to 'player.htm'
-2. View link to launch audio player
-
-## Known Issues
-Tested to work on Mozilla Firefox 3.6+. Should work fine on IE. Known to break on Google Chrome :: pending fix
+2. Visit link to launch audio player
 
 
